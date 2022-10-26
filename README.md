@@ -4,7 +4,7 @@ This is a repository of game development lab, where students learn to build a Ro
 
 ## Here is the expected output
 
-![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rock-paper-scissors-game.gif)
+![Rock Paper Scissors game output](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rock-paper-scissors-game.gif)
 
 Fork this repo and get started with the project.
 
