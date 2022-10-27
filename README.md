@@ -10,7 +10,7 @@ This is a repository of game development lab, where students learn to build a Ro
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rock-paper-scissors-home-screen.png)
 
-### Game page Rock Paper Scissors game
+### Game page of Rock Paper Scissors game
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rock-paper-scissors-game-screen.png)
 
