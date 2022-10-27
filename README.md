@@ -3,11 +3,14 @@
 This is a repository of game development lab, where students learn to build a Rock Paper Scissors game using HTML, CSS & JS.
 
 ## Here is the expected output
-### Starting page of Game
+
+[Working of game](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rock-paper-scissors-game.gif)
+
+### Starting page of Rock Paper Scissors game
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rock-paper-scissors-home-screen.png)
 
-### Game page
+### Game page Rock Paper Scissors game
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rock-paper-scissors-game-screen.png)
 
